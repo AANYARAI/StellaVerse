@@ -13,7 +13,7 @@ To build a responsive, interactive, and visually mesmerizing space-themed websit
 
 ## 🚀 Live Demo
 
-🔗 [Visit StellaVerse](https://your-username.github.io/stellaverse)  
+🔗 [Visit StellaVerse](https://stella-verse.vercel.app/)  
 *(Replace with your live deployment URL)*
 
 ---
