@@ -84,17 +84,17 @@ Go to Settings > Pages
 
 Set the source branch to main and root directory to /
 
-Your site will be live at https://your-username.github.io/stellaverse
+Your site will be live at https://AANYARAI.github.io/StellaVerse
 
 
 ## 👥 Contributors
 
-| Name                                                   | Role                                                                         |
-|--------------------------------------------------------|--------------------------------------|
-| [AANYARAI](https://github.com/AANYARAI)                | HomePage, Page Linking, Deployment   |
-| [ananyamishra13](https://github.com/ananyamishra13)    | Discovery Page                       |
-| [Aadya2901](https://github.com/Aadya2901)              | Timeline Page                        |
-| [iam-anish15](https://github.com/iam-anish15)          | Mission Page                         |
+| Name                                                   | Role                                              |
+|--------------------------------------------------------|---------------------------------------------------|
+| [AANYARAI](https://github.com/AANYARAI)                | HomePage,Explore Page, Page Linking, Deployment   |
+| [ananyamishra13](https://github.com/ananyamishra13)    | Discovery Page                                    |
+| [Aadya2901](https://github.com/Aadya2901)              | Timeline Page                                     | 
+| [iam-anish15](https://github.com/iam-anish15)          | Mission Page                                      |
 
 
 🤝 Contributing
