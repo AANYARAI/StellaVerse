@@ -68,7 +68,7 @@ To build a responsive, interactive, and visually mesmerizing space-themed websit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AANYARAI/stellaverse.git
+git clone https://github.com/AANYARAI/StellaVerse.git
 cd stellaverse
 2. Open Locally
 Open index.html directly in your browser
